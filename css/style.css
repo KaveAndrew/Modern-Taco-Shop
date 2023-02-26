@@ -218,6 +218,10 @@ a:active {
 /* || MAIN */
 .main {
     padding: var(--PADDING-TB) var(--PADDING-SIDE);
+    flex: 1 auto;
+    position:relative;
+    min-height:calc(100vh - 210px);
+    overflow:auto;
 }
 
 .main__article {
