@@ -60,7 +60,7 @@ textarea {
 }
 
 /* || DARK MODE */
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     :root {
         --BGCOLOR-FADE: gray;
         --BGCOLOR: #000;
@@ -76,7 +76,7 @@ textarea {
         --LINK-HOVER: orange;
         --NAV-BGCOLOR: rgb(20, 20, 20);
     }
-} */
+}
 
 /* || UTILITY CLASSES */
 .offscreen {
